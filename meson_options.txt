@@ -1,0 +1,1 @@
+option('library_type', type : 'combo', choices : ['shared', 'static'], value : 'shared', description : 'Build oci_client as shared or static library')
